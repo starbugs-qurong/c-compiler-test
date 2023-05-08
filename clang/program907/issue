@@ -1,1 +1,5 @@
 https://github.com/llvm/llvm-project/issues/
+
+infinite loop in clang-15 -O1 -O2 -O3
+
+
